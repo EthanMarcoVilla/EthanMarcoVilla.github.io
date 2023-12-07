@@ -6,7 +6,7 @@ This is my home page! My name is Ethan Marco Villa and I am a student at [Cal St
 
 My GitHub page is http://github.com/EthanMarcoVilla.
 
-### Favorite CPSC 120l Labs
+### Favorite CPSC 120L Labs
 
 * Lab 09
     This lab is most familiar because it works with navigating strings and comparing them to each other. It reminds me of the Java class i took where we did a lot of code involving manipulating strings.
